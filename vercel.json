@@ -1,5 +1,4 @@
 {
-    "version": 2,
     "builds": [{
         "src": "Django_App/wsgi.py",
         "use": "@vercel/python",
